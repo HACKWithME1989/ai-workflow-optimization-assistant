@@ -190,3 +190,6 @@ This project was developed as a hands-on automation engineering portfolio projec
 The goal was to create a functioning end-to-end system rather than a conceptual demonstration.
 
 **Project Status:** Functional prototype — core automation, validation, storage, authentication, and API response testing completed.
+
+
+![AI Workflow Optimization Assistant Architecture](workflow-architecture.png)
