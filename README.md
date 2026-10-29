@@ -142,6 +142,12 @@ The workflow was tested using Postman and Make.com's execution monitoring.
 
 Test cases included invoice processing, IT help desk routing, employee expense reimbursement, and purchase order approval.
 
+### Successful API Response
+
+The screenshot below demonstrates a successful HTTP 200 response containing the AI-generated workflow optimization report.
+
+![Successful API Response](successful-api-response.png)
+
 ## Security Considerations
 
 The project uses webhook API key authentication to restrict access and reduce unauthorized API usage.
