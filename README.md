@@ -148,6 +148,12 @@ The screenshot below demonstrates a successful HTTP 200 response containing the 
 
 ![Successful API Response](successful-api-response.png)
 
+### Automated Report Storage
+
+The screenshot below demonstrates how completed AI workflow analyses are automatically saved to Google Sheets, including request details, timestamps, and generated recommendations.
+
+![Google Sheets Report Storage](google-sheets-report-storage.png)
+
 ## Security Considerations
 
 The project uses webhook API key authentication to restrict access and reduce unauthorized API usage.
